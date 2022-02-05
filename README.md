@@ -12,10 +12,15 @@ Is a cloud-based hosting service that lets you manage Git repositories.
 
 ### OVERVIEW OF PYTHON CLASSES/OBJECTS
 **Class**  A user-defined prototype for an object that defines a set of attributes that characterize any object of the class.
-
+```markdown
 **Class Definition Syntax**
 
-[Link](url) and ![Image](src)
+class ClassName:
+    Statement-1
+    
+    
+    Statement-N
+```
 
 ```markdown
 Syntax highlighted code block
