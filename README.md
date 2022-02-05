@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/tombrown3/mentee_task/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### GIT
+Is a version control system that lets you manage and keep track of your source code history.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GITHUB
+Is a cloud-based hosting service that lets you manage Git repositories.
 
 ```markdown
 Syntax highlighted code block
