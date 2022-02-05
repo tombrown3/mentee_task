@@ -1,4 +1,4 @@
-## Introduction to Git and GiTHub and overview of Python Classes
+## Introduction to Git and GiTHub and an overview of Python Classes
 
 You can use the [editor on GitHub](https://github.com/tombrown3/mentee_task/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
