@@ -42,7 +42,7 @@ To understand the state, behavior, and identity let us take the example of the c
        obj = Student()
    ```
    
-   This will create an object named obj of the class Dog defined above
+   This will create an object named obj of the class Student
 
 
 ```markdown
