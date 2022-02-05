@@ -48,6 +48,9 @@ To understand the state, behavior, and identity let us take the example of the c
  2. If we have a method that takes no arguments, then we still have to have one argument.
  
  **The __init__ method**
+ 
+ It is run as soon as an object of a class is instantiated. The method is useful to do any initialization you want to do with your object. 
+ 
 
 
 ```markdown
