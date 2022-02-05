@@ -25,10 +25,6 @@ class ClassName:
 **Object** Is an entity that has a state and behavior associated with it. It may be any real-world object like a mouse, keyboard, chair, table, pen, etc. Integers, strings, floating-point numbers, even arrays, and dictionaries, are all objects.
 
 An object consists of :
-```markdown
-  obj = Student()
-```
-  
 
     State : It is represented by the attributes of an object. It also reflects the properties of an object.
     Behavior : It is represented by the methods of an object. It also reflects the response of an object to other objects.
@@ -42,6 +38,8 @@ To understand the state, behavior, and identity let us take the example of the c
     -The behavior can be considered as to whether the student is studying or playing.    
     
    Creating an object
+   ```markdown
+       obj = Student()
 
 
 ```markdown
