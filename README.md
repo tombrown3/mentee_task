@@ -40,6 +40,9 @@ To understand the state, behavior, and identity let us take the example of the c
    Creating an object
    ```markdown
        obj = Student()
+   ```
+   
+   This will create an object named obj of the class Dog defined above
 
 
 ```markdown
