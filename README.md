@@ -1,4 +1,4 @@
-## INTRODUCTION TO GIT AND GITHUB  AND AN OVERVIEW OF PYTHON
+## Introduction to Git and GiTHub and overview of Python Classes
 
 You can use the [editor on GitHub](https://github.com/tombrown3/mentee_task/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,6 +10,9 @@ Is a version control system that lets you manage and keep track of your source c
 ### GITHUB
 Is a cloud-based hosting service that lets you manage Git repositories.
 
+### OVERVIEW OF PYTHON CLASSES/OBJECTS
+**Class**  A user-defined prototype for an object that defines a set of attributes that characterize any object of the class.
+**Class Definition Syntax**
 ```markdown
 Syntax highlighted code block
 
