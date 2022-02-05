@@ -31,9 +31,9 @@ An object consists of :
     Identity : It gives a unique name to an object and enables one object to interact with other objects.
     
     
-To understand the state, behavior, and identity let us take the example of the class dog (explained above). 
+To understand the state, behavior, and identity let us take the example of the class Student. 
 
-    -The identity can be considered as the name of the dog.
+    -The identity can be considered as the name of the student.
     -State or Attributes can be considered as the breed, age, or color of the dog.
     -The behavior can be considered as to whether the dog is eating or sleeping.    
 
