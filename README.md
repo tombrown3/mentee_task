@@ -1,8 +1,6 @@
 ## Introduction to Git and GiTHub and overview of Python Classes
 
-You can use the [editor on GitHub](https://github.com/tombrown3/mentee_task/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is a five minute read that will provide you with a brief introduction to git and github and their differences and their uses. It also covers an overview of python classes/objects with examples included.
 
 ### GIT
 Is a version control system that lets you manage and keep track of your source code history.
