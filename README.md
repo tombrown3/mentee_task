@@ -62,22 +62,26 @@ class Student:
     def __init__(self, name):
         self.name = name
           
-    def speak(self):
+    def my_name(self):
         print("My name is {}".format(self.name))
   
 # Driver code
 # Object instantiation
-Rodger = Dog("Rodger")
-Tommy = Dog("Tommy")
+Rodger = Student("Rodger")
+Tom = Student("Tom")
   
 # Accessing class methods
-Rodger.speak()
-Tommy.speak()
+Rodger.my_name()
+Tom.my_name()
 
 
 
 ```
 **Output**
+```markdown
+My name is Rodger
+My name is Tom
+```
 
 ### Support or Contact
 
