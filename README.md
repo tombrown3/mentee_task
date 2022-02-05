@@ -41,6 +41,8 @@ To understand the state, behavior, and identity let us take the example of the c
    ```
    
    This will create an object named obj of the class Student
+   
+  **Self** method
 
 
 ```markdown
