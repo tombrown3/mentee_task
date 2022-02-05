@@ -44,8 +44,8 @@ To understand the state, behavior, and identity let us take the example of the c
    
   **Self method**
   
-  Class methods must have an extra first parameter in the method definition. We do not give a value for this parameter when we call the method, Python provides it
-If we have a method that takes no arguments, then we still have to have one argument.
+ 1. Class methods must have an extra first parameter in the method definition. We do not give a value for this parameter when we call the method, Python provides it
+ 2. If we have a method that takes no arguments, then we still have to have one argument.
 
 
 ```markdown
