@@ -34,8 +34,10 @@ An object consists of :
 To understand the state, behavior, and identity let us take the example of the class Student. 
 
     -The identity can be considered as the name of the student.
-    -State or Attributes can be considered as the breed, age, or color of the dog.
-    -The behavior can be considered as to whether the dog is eating or sleeping.    
+    -State or Attributes can be considered as the class, age, or gender of the student.
+    -The behavior can be considered as to whether the student is studying or playing.    
+    
+   Creating an object
 
 
 ```markdown
