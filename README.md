@@ -51,7 +51,7 @@ To understand the state, behavior, and identity let us take the example of the c
  
  It is run as soon as an object of a class is instantiated. The method is useful to do any initialization you want to do with your object. 
 
-**Creating a class and object with class and instance attributes**
+**Creating Class and objects with methods**
 ```markdown
 class Student:
   
